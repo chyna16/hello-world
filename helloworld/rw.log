@@ -1,0 +1,32 @@
+[9b09b60] Jeff Cannon 2016-10-19 Reverted back to an old commit
+0	1	helloworld/README.md
+
+[dd1ce60] Jeff Cannon 2016-10-19 Jeff's branch changes
+1	0	helloworld/README.md
+
+[c8da0b2] chyna16 2016-10-19 Change Back
+[28e8232] chyna16 2016-10-19 CHYNA CHANGES
+1	0	helloworld/README.md
+
+[244c03f] Jeff Cannon 2016-10-19 Jeff's Changes
+3	1	helloworld/README.md
+
+[0ee2cbd] chyna16 2016-10-19 Adjusted git code
+2	1	helloworld/project.clj
+3	4	helloworld/src/helloworld/core.clj
+
+[09267eb] chyna16 2016-10-19 clojure helloworld core
+5	0	helloworld/src/helloworld/helloworld.core
+
+[d003756] chyna16 2016-10-19 Clojure Helloworld
+1	0	helloworld/README.md
+
+[b80ef42] chyna16 2016-10-19 Created helloworld project
+11	0	helloworld/.gitignore
+24	0	helloworld/CHANGELOG.md
+214	0	helloworld/LICENSE
+14	0	helloworld/README.md
+3	0	helloworld/doc/intro.md
+6	0	helloworld/project.clj
+6	0	helloworld/src/helloworld/core.clj
+7	0	helloworld/test/helloworld/core_test.clj
