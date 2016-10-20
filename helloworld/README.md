@@ -16,3 +16,5 @@ your option) any later version.
 Jeff's Changes
 
 
+Chyna's Notes
+ I addes in the logfile that was generated yesterday to git. 
